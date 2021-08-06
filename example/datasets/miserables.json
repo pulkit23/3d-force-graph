@@ -6,6 +6,6 @@
   ],
   "links": [
     {"source": "ISAC", "target": "GSNOW", "value": 1},
-    {"source": "PRISM", "target": "GSNOW", "value": 2},
+    {"source": "PRISM", "target": "GSNOW", "value": 2}
   ]
 }
