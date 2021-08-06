@@ -6,7 +6,7 @@
     {"id": "Employee", "group": 2},
     {"id": "Incident", "group": 3},
     {"id": "Change", "group": 3},
-    {"id": "Adir", "group": 4}
+    {"id": "Adir", "group": 3}
   ],
   "links": [
     {"source": "Incident", "target": "SWC", "value": 1},
