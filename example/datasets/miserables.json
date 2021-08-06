@@ -1,12 +1,19 @@
 {
   "nodes": [
-    {"id": "ISAC", "group": 1},
-    {"id": "GSNOW", "group": 2},
-    {"id": "PRISM", "group": 3}
+    {"id": "SWC", "group": 1},
+    {"id": "Server", "group": 1},
+    {"id": "Database", "group": 1},
+    {"id": "Employee", "group": 2},
+    {"id": "Incident", "group": 3},
+    {"id": "Change", "group": 3},
+    {"id": "Adir", "group": 4},
   ],
   "links": [
-    {"source": "ISAC", "target": "GSNOW", "value": 1},
-    {"source": "PRISM", "target": "GSNOW", "value": 2},
-    {"source": "ISAC", "target": "PRISM", "value": 3}
+    {"source": "Incident", "target": "SWC", "value": 1},
+    {"source": "Change", "target": "SWC", "value": 2},
+    {"source": "Employee", "target": "SWC", "value": 1},
+    {"source": "Adir", "target": "SWC", "value": 1},
+    {"source": "Server", "target": "SWC", "value": 1},
+    {"source": "Database", "target": "SWC", "value": 2}
   ]
 }
