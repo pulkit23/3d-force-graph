@@ -1,5 +1,6 @@
 size,path,color
-30,Job0,#101020
+50,Job0,#101020
+50,Job0/Job100,#101020
 20,Job0/Job1,#101020
 15,Job0/Job1/Job2,#101020
 10,Job0/Job1/Job2/Job3,#101020
