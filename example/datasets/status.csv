@@ -1,6 +1,6 @@
 size,path,status
-,Job0,1
-,Job0/Job1,2
-,Job0/Job2,3
-,Job0/Job3,3
-,Job0/Job4,2
+,Job0,rgba(255,0,0,0.2)
+,Job0/Job1,rgba(255,0,0,0.2)
+,Job0/Job2,rgba(255,0,0,0.2)
+,Job0/Job3,rgba(255,0,0,0.2)
+,Job0/Job4,rgba(255,0,0,0.2)
