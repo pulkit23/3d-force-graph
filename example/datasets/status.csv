@@ -3,4 +3,5 @@ size,path,status
 ,Job0/Job1,rgba(255,0,0,0.2)
 ,Job0/Job2,rgba(255,0,0,0.2)
 ,Job0/Job3,rgba(255,0,0,0.2)
-,Job0/Job4,rgba(255,0,0,0.2)
+,Job0/JobX,rgba(255,0,0,0.2)
+,Job0/JobY,rgba(255,0,0,0.2)
