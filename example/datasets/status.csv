@@ -1,5 +1,7 @@
 size,path,status
-,Job0,'rgba(255,0,0,0.2)'
-,Job0/Job1,'rgba(0,255,0,0.2)'
-,Job0/Job2,'rgba(0,0,255,0.2)'
-,Job0/Job3,'rgba(255,0,0,0.2)'
+,Job0,rgba(255,0,0,0.2)
+,Job0/Job1,rgba(0,255,0,0.2)
+,Job0/Job2,rgba(0,0,255,0.2)
+,Job0/Job3,rgba(255,0,255,0.2)
+,Job0/Job4,rgba(255,255,0,0.2)
+,Job0/Job5,rgba(255,0,0,0.2)
