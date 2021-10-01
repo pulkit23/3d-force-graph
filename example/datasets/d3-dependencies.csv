@@ -18,13 +18,13 @@ size,path,status
 10,EndJob/LCR/IBLN/Cal,#3f871c
 10,EndJob/LCR/IBLN/T1,#3f871c
 10,EndJob/LCR/IBLN/T2,#3f871c
-20,EndJob/LCR/IBUS,#3366cc
+20,EndJob/LCR/IBUS,#ffdb1a
 10,EndJob/LCR/IBUS/T3,#3f871c
-20,EndJob/LCR/IBCH,#3366cc
+20,EndJob/LCR/IBCH,#ffdb1a
 10,EndJob/LCR/IBCH/GLB15,#3f871c
 10,EndJob/LCR/IBCH/SET15,#3f871c
 10,EndJob/LCR/IBCH/GLBP,#3f871c
-30,EndJob/ALMM1,#3366cc
+30,EndJob/ALMM1,#ffdb1a
 20,EndJob/ALMM1/CN,#3f871c
 10,EndJob/ALMM1/CN/Gate1,#3f871c
 10,EndJob/ALMM1/CN/Gate2,#3f871c
